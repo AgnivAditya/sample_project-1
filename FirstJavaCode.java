@@ -13,7 +13,8 @@ class FirstJavaCode
          public void show(){
   System.out.println("Second Code Hello!!");
 }
-              
+         
+  
           
          
          void otherMethod()
@@ -22,5 +23,6 @@ class FirstJavaCode
                     
                   
          }
+         
        
 }
